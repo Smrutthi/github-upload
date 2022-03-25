@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Smrutthi 
-Bharathgopal
-/
-M1_March_2022
-Public
-Code
-Issues
-80
-Pull requests
-1
-Actions
-Projects
-1
-Wiki
-Security
-Insights
-M1_March_2022/3_Implementation/unity/unity.h
-@Bharathgopal
-Bharathgopal Example for Multifile, Makefile, Unit testing and Doxygen comments
-Latest commit 268863f 8 days ago
- History
- 1 contributor
-661 lines (604 sloc)  86.9 KB
-   
 /* ==========================================
     Unity Project - A Test Framework for C
     Copyright (c) 2007-21 Mike Karlesky, Mark VanderVoord, Greg Williams
@@ -682,16 +651,3 @@ void verifyTest(void);
 }
 #endif
 #endif
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
